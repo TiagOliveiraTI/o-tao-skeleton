@@ -1,0 +1,17 @@
+{
+    "name": "tiagoliveirati/o-tao-skeleton",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Tiagoliveirati\\OTaoSkeleton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tiagoliveirati",
+            "email": "dev.tiago.oliveira@gmail.com"
+        }
+    ],
+    "require": {}
+}
