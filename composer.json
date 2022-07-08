@@ -1,7 +1,8 @@
 {
     "name": "tiagoliveirati/o-tao-skeleton",
+    "description": "A Skeleton for a little project",
     "type": "library",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Tiagoliveirati\\OTaoSkeleton\\": "src/"
@@ -14,7 +15,7 @@
         }
     ],
     "require": {
-        "monolog/monolog":"2.7.0"
+        "monolog/monolog":"^2.7"
     },
     "require-dev": {
         "phpro/grumphp": "^1.13"
